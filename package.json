@@ -1,0 +1,33 @@
+{
+    "name": "Expandable Backgrid Cell",
+    "version": "1.0.0",
+    "description": "A simple, lightweight Backgrid extension to create accordions",
+    "main": "src/expandable-cell.js",
+    "keywords": [
+        "cell",
+        "accordions",
+        "accordion",
+        "commonjs",
+        "client",
+        "expandable-cell",
+        "backgrid",
+        "backbone"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/prma85/backgrid-expandable-cell.git"
+    },
+    "files": [
+        "src/**/*.js",
+        "CONTRIBUTING.md"
+    ],
+    "engines": {
+        "node": ">=0.10"
+    },
+    "author": "Paulo Andrade",
+    "license": "MIT",
+    "devDependencies": {
+        "backbone": "1.1.0",
+        "backgrid": "0.3.8"
+    }
+}

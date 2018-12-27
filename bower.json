@@ -1,0 +1,16 @@
+{
+    "name": "Expandable Backgrid Cell",
+    "version": "1.0.0",
+    "homepage": "https://github.com/prma85/backgrid-expandable-cell",
+    "description": "A simple, lightweight Backgrid extension to create accordions",
+    "authors": ["Paulo Andrade <prma85@gmail.com>"],
+    "keywords": ["backgrid", "backbone"],
+    "main": ["lib/expandable-cell.js"],
+    "license": "MIT",
+    "ignore": ["**/.*", "node_modules", "bower_components", "test", "tests"],
+    "dependencies": {
+        "underscore": "~1.5.2",
+        "backbone": "~1.1.0",
+        "jquery": "~1.10.2"
+    }
+}
