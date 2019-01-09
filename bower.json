@@ -1,5 +1,5 @@
 {
-    "name": "Expandable Backgrid Cell",
+    "name": "backgrid-expandable-cell",
     "version": "1.0.0",
     "homepage": "https://github.com/prma85/backgrid-expandable-cell",
     "description": "A simple, lightweight Backgrid extension to create accordions",
