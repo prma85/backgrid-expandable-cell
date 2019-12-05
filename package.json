@@ -33,7 +33,7 @@
   },
   "homepage": "https://github.com/prma85/backgrid-expandable-cell#readme",
   "devDependencies": {
-    "backbone": "1.1.0",
+    "backbone": "1.4.0",
     "backgrid": "0.3.8"
   }
 }
